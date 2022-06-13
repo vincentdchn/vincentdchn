@@ -2,6 +2,7 @@
 <h3 align="center">A freshly new developer from France.</h3>
 
 
+
 - 🔭 I’m currently working on a side project called **H264 (static landing page for production company)**
 
 - 🌱 I’m currently learning **PHP, Angular, Typescript and Javascript !**
