@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vincent Duchêne !</h1>
 <h3 align="center">A freshly new developer from France.</h3>
 
-<p align="left"> <a href="https://twitter.com/vincentdchn" target="blank"><img src="https://img.shields.io/twitter/follow/vincentdchn?logo=twitter&style=for-the-badge" alt="vincentdchn" /></a> </p>
 
 - 🔭 I’m currently working on a side project called **H264 (static landing page for production company)**
 
