@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a side project called **H264 (static landing page for production company)**
 
-- 🌱 I’m currently learning **PHP, React, Typescript and Javascript !**
+- 🌱 I’m currently learning **PHP, React, Typescript and ThreeJS !**
 
 - 🔭 I’m also currently working on [Hybricks by Mediactive](https://www.mediactive-digital.com/newsroom/etudes-de-cas/hybricks-inventer-evenement-digital/)
 
