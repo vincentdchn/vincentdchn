@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on a side project called **H264 (static landing page for production company)**
+- 🔭 I’m currently working on a side project called **H264 (landing page for production company)**
 
 - 🌱 I’m currently learning **PHP, React, Typescript and ThreeJS !**
 
