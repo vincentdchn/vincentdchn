@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Vincent Duchêne !</h1>
-<h3 align="center">A freshly new developer from France.</h3>
 
 
 
