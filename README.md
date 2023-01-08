@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **PHP, React, Typescript and ThreeJS !**
 
-- 🔭 I’m also currently working on [Hybricks by Mediactive](https://www.mediactive-digital.com/newsroom/etudes-de-cas/hybricks-inventer-evenement-digital/)
+- 🔭 I’m also currently working on [Hybricks by Mediactive](https://www.mediactive-digital.com/newsroom/etudes-de-cas/hybricks-inventer-evenement-digital/) (current stack : Laravel / ReactTS)
 
 - ⚡ Fun fact **I was working in the film industry before joining the dev family 🚀**
 
