@@ -9,10 +9,10 @@
 <header>
   <div align="center">
     <a href="https://showcase-five.vercel.app/">
-      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=%234F7118&label=Website&message=Last test&style=flat&logo=amp&logoColor=ffffff&labelColor=334155">
+      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=afddd4&label=Website&message=Last test&style=flat&logo=amp&logoColor=ffffff&labelColor=292929">
     </a>
     <a href="https://twitter.com/vincentdchn">
-      <img alt="My Twitter Profile" src="https://img.shields.io/badge/Twitter-vincentdchn-4F7118?style=flat&logo=twitter&logoColor=ffffff&labelColor=334155">
+      <img alt="My Twitter Profile" src="https://img.shields.io/badge/Twitter-vincentdchn-afddd4?style=flat&logo=twitter&logoColor=ffffff&labelColor=292929">
     </a>
   </div>
 </header>
