@@ -1,5 +1,7 @@
 <a href="https://showcase-five.vercel.app/">
   <picture>
+     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vincentdchn/vincentdchn/main/header-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vincentdchn/vincentdchn/main/header.svg" />
     <img alt="Vincent Duchêne | Web developer" src="https://raw.githubusercontent.com/vincentdchn/vincentdchn/main/header.svg" width="100%" />
   </picture>
 </a>
