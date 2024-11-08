@@ -9,8 +9,8 @@
 
 <header>
   <div align="center">
-    <a href="https://vincent-dchn.vercel.app/">
-      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=afddd4&label=Website&message=Last test&style=flat&logo=amp&logoColor=ffffff&labelColor=292929">
+    <a href="https://www.vincentdchn.com/">
+      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=afddd4&label=Website&message=Personal&style=flat&logo=amp&logoColor=ffffff&labelColor=292929">
     </a>
     <a href="https://twitter.com/vincentdchn">
       <img alt="My Twitter Profile" src="https://img.shields.io/badge/Twitter-vincentdchn-afddd4?style=flat&logo=twitter&logoColor=ffffff&labelColor=292929">
@@ -36,7 +36,7 @@
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=vincentdchn&show_icons=true&title_color=8A937B&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true">
           <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=vincentdchn&count_private=true" />
-          <img alt="Enji Kusnadi's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=vincentdchn&show_icons=true&title_color=8A937B&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true" />
+          <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=vincentdchn&show_icons=true&title_color=8A937B&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true" />
         </picture>
       </a>
       <br /><br />
